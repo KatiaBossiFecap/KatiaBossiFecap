@@ -33,7 +33,7 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>        
             
-<p align="center">
+<p align="right">
   <img src="https://github.com/KatiaBossiFecap/KatiaBossiFecap/assets/134863416/5ba1d721-5099-4905-a3dc-4b70aa6506d9" width="350">
 </p>
             
