@@ -19,7 +19,8 @@
 ## Contatos:
 
 <div>
-  Em Breve!!
+ <a href="https://www.linkedin.com/in/katia-bossi/" target="_blank"><img align="left" alt="LinkedIn" width="22px"/>
+  
 </div>
       
             
