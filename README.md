@@ -1,7 +1,7 @@
 ### Olá, eu sou a Professora Kátia! 👋
 
 - 🔭 Atualmente sou Professora de Programação
-Ferramentas e tecnologias:
+<h2>Ferramentas e tecnologias:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
