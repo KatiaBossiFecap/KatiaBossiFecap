@@ -34,7 +34,7 @@
 </p>        
             
 <p align="center">
-  <img src=" https://github.com/KatiaBossiFecap/KatiaBossiFecap/issues/1#issue-1729599067 " width="150">
+  <img src="https://github.com/KatiaBossiFecap/KatiaBossiFecap/assets/134863416/5ba1d721-5099-4905-a3dc-4b70aa6506d9" width="350">
 </p>
             
             
