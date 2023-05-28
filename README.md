@@ -1,7 +1,7 @@
 # Olá, Sou Profa. Kátia Bossi ! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-- 🔭 Resumo profissional: XX
+- 🔭 Resumo profissional: Doutoranda em Ensino de Ciências e Matemática e Mestre pela Universidade Cruzeiro do Sul em Ensino de Ciências e Matemática; Formada em Engenharia da Computação, Licenciada em Matemática e Admministração de Empresas. Atualmente sou docente em Ensino Técnicos e Superior.
 
 ## Algumas Ferramentas e Tecnologias
 
@@ -19,8 +19,7 @@
 ## Contatos:
 
 <div>
- <a href="https://www.linkedin.com/in/katia-bossi/" target="_blank"><img align="left" alt="LinkedIn" width="22px"/>
-  
+  <a href="https://www.linkedin.com/in/katia-bossi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
       
             
