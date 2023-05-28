@@ -1,10 +1,9 @@
 # Olá, Sou Profa. Kátia Bossi ! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-- 🔭 Resumo profissional: Doutoranda em Ensino de Ciências e Matemática e Mestre pela Universidade Cruzeiro do Sul em Ensino de Ciências e Matemática; Formada em Engenharia da Computação, Licenciada em Matemática e Admministração de Empresas. Atualmente sou docente em Ensino Técnicos e Superior.
+- 🔭 Resumo: Doutoranda em Ensino de Ciências e Matemática e Mestre pela Universidade Cruzeiro do Sul em Ensino de Ciências e Matemática; Formada em Engenharia da Computação, Licenciada em Matemática e Admministração de Empresas. Atualmente sou docente em Ensino Técnicos e Superior.
 
-## Algumas Ferramentas e Tecnologias
-
+### 🖥️ Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
