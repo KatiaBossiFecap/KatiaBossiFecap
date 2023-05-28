@@ -1,4 +1,4 @@
-# Olá, Sou Profa. Kátia Bossi ! 
+# Olá, Sou a Profa. Kátia Bossi ! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🔭 Resumo: Doutoranda em Ensino de Ciências e Matemática e Mestre pela Universidade Cruzeiro do Sul em Ensino de Ciências e Matemática; Formada em Engenharia da Computação, Licenciada em Matemática e Admministração de Empresas. Atualmente sou docente em Ensino Técnicos e Superior.
